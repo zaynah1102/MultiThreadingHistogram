@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\zayna\Documents\CS 420\Labs\CS420Lab02AnsariZaynah\CS420Lab02AnsariZaynah\Source.cpp(41,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\zayna\Documents\CS 420\Labs\CS420Lab02AnsariZaynah\CS420Lab02AnsariZaynah\Source.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zayna\Documents\CS 420\Labs\CS420Lab02AnsariZaynah\CS420Lab02AnsariZaynah\Source.cpp(94,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zayna\Documents\CS 420\Labs\CS420Lab02AnsariZaynah\CS420Lab02AnsariZaynah\Source.cpp(104,36): warning C4018: '<': signed/unsigned mismatch
+  CS420Lab02AnsariZaynah.vcxproj -> C:\Users\zayna\Documents\CS 420\Labs\CS420Lab02AnsariZaynah\x64\Debug\CS420Lab02AnsariZaynah.exe
